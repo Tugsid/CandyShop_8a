@@ -2,26 +2,41 @@
   padding: 0%;
   margin: 0%;
 }
+div{
+border: 5px solid black;
+}
+h2{
+  color: gold;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1{
+  color: gold;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h3{
+  color: gold;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
 .container {
   height: 300vh;
-  width: 100%;
-  background-color: crimson;
+  width: 99%;
+  background-color: white;
 }
 .top{
   width: 100%;
   height: 10%;
-  background-color: blue;
+  background-color: white;
 }
 .toptop{
   height: 34%;
   width: 100%;
-  background-color: aliceblue;
+  background-color: white;
   display: flex;
 }
 .logo{
   width: 50%;
   height: 100%;
-  background-color: gold;
+  background-color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -29,7 +44,7 @@
 .signup{
   width: 50%;
   height: 100%;
-  background-color: dodgerblue;
+  background-color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,7 +52,7 @@
 .topdown{
   height: 66%;
   width: 100%;
-  background-color: chartreuse;
+  background-color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -46,7 +61,7 @@
 .topdowntop{
   height: 50%;
   width: 100%;
-  background-color: yellow;
+  background-color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -62,7 +77,7 @@
 .topdowndownleft{
   height: 100%;
   width: 50%;
-  background-color: rgb(0, 213, 255);
+  background-color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -70,7 +85,7 @@
 .topdowndownright{
   height: 100%;
   width: 50%;
-  background-color: cyan;
+  background-color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -78,18 +93,18 @@
 .explanation{
   width: 100%;
   height: 20%;
-  background-color: aquamarine;
+  background-color: white;
 }
 .allandnew{
   width: 100%;
   height: 3.5%;
-  background-color: blueviolet;
+  background-color: white;
   display: flex;
 }
 .all{
   width: 50%;
   height: 100%;
-  background-color: rgb(20, 50, 245);
+  background-color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -97,7 +112,7 @@
 .new{
   width: 50%;
   height: 100%;
-  background-color: violet;
+  background-color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -105,12 +120,12 @@
 .production{
   width: 100%;
   height: 50%;
-  background-color: lightpink;
+  background-color: white;
 }
 .layer1{
   width: 100%;
   height: 50%;
-  background-color: paleturquoise;
+  background-color: white;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -118,37 +133,37 @@
 .product1{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .product2{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .product3{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .product4{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .product5{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .product6{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .layer2{
   width: 100%;
   height: 50%;
-  background-color: lightcoral;
+  background-color: white;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -156,43 +171,44 @@
 .product7{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .product8{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .product9{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .product10{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .product11{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .product12{
   height: 90%;
   width: 15%;
-  background-color: plum;
+  background-color: white;
 }
 .sutsm{
   width: 100%;
   height: 4%;
-  background-color: skyblue;
+  background-color: white;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 .allthing{
   width: 100%;
   height: 12.5%;
-  background-color: lightseagreen;
+  background-color: white;
 }
